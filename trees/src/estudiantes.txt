@@ -1,0 +1,13 @@
+20201041190     BECERRA___      ARCE______      EMERSON_________    emerson.becerraa@unac.edu.co__
+20201043190     CABANA____      TREJOS____      JUAN DAVID______    juand.cabanat@unac.edu.co_____
+20211001390     CASTRO____      LORA______      LUIS GUILLERMO__    luisg.castro@unac.edu.co______
+20201033790     GONZALEZ__      SANTAMARIA      ANDRES ESTEBAN__    andres.gonzalezs@unac.edu.co__
+20201003290     GUERRERO__      JARABA____      JUAN DANIEL_____    juand.guerreroj@unac.edu.co___
+20201051590     HERRERA___      SEVILLA___      JORGE LUIS______    jorgel.herreras@unac.edu.co___
+20191030290     HINESTROZA      PEREZ_____      CARLOS ANDRES___    carlos.hinestrozap@unac.edu.co
+20201049390     PALACIOS__      LOPEZ_____      BRANDON STEVE___    brandons.palaciosl@unac.edu.co
+20201027390     PEREZ_____      BASTIDAS__      KATHERIN VANESSA    katherinv.perezb@unac.edu.co__
+20161004590     PUENTES___      MEZA______      REGINO ANTONIO__    reanpuentesm@unac.edu.co______
+20201025090     RAMIREZ___      CHIQUITO__      ALEXANDER_______    alexander.ramirezc@unac.edu.co
+20201048790     SALCEDO___      CUPITRA___      SAID ELIAS______    said.salcedoc@unac.edu.co_____
+20201029090     SANCHEZ___      MORENO____      DANIEL ALFONSO__    daniel.asanchezm@unac.edu.co__
